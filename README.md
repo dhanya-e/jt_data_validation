@@ -1,5 +1,5 @@
 # jt_data_validation
-=======
+
 Data pre-processing code
 
 ## Stage 1: Data Download
