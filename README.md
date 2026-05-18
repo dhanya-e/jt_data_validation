@@ -1,6 +1,4 @@
 # jt_data_validation
-<<<<<<< HEAD
-data pre-processing code
 =======
 Data pre-processing code
 
@@ -72,4 +70,3 @@ rec_id  seg_i       spk_id  speaker_role    start_time  end_time    ground truth
 ```
 bash scripts/dataset_prep.sh
 ```
->>>>>>> 6c3e74b (Initial commit)
